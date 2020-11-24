@@ -1,0 +1,57 @@
+
+/* font-family: Abel*/
+@font-face{
+    font-family: Abel;
+    src: url('../googlefonts/Abel/Abel-Regular.ttf');
+}
+
+
+/*font-family: Kaushan*/
+@font-face{
+    font-family: Kaushan;
+    src: url('../googlefonts/Kaushan_Script/KaushanScript-Regular.ttf');
+}
+
+
+/*font-family: Lexend*/
+@font-face{
+    font-family: Lexend;
+    src: url('../googlefonts/Lexend_Deca/LexendDeca-Regular.ttf');
+}
+
+
+/*font-family: Reenie*/
+@font-face{
+    font-family: Reenie;
+    src: url('../googlefonts/Reenie_Beanie/ReenieBeanie-Regular.ttf');
+}
+
+/*font-family: Cormorant*/
+@font-face{
+    font-family: Cormorant-med-italic;
+    src: url('../googlefonts/Cormorant_Garamond/CormorantGaramond-MediumItalic.ttf');
+}
+
+/*font-family: Cormorant*/
+@font-face{
+    font-family: Cormorant-light-italic;
+    src: url('../googlefonts/Cormorant_Garamond/CormorantGaramond-LightItalic.ttf');
+}
+
+/*font-family: Cormorant*/
+@font-face{
+    font-family: Cormorant-light;
+    src: url('../googlefonts/Cormorant_Garamond/CormorantGaramond-Light.ttf');
+}
+
+/*font-family: Cormorant*/
+@font-face{
+    font-family: Cormorant-reg;
+    src: url('../googlefonts/Cormorant_Garamond/CormorantGaramond-Regular.ttf');
+}
+
+/*font-family: Cormorant*/
+@font-face{
+    font-family: Cormorant-bold;
+    src: url('../googlefonts/Cormorant_Garamond/CormorantGaramond-Bold.ttf');
+}
